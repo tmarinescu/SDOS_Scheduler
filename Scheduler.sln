@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Scheduler", "Scheduler\Scheduler.vcxproj", "{B250D4C3-C67D-444B-8D7F-537AFF922AF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B250D4C3-C67D-444B-8D7F-537AFF922AF0}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{B250D4C3-C67D-444B-8D7F-537AFF922AF0}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{B250D4C3-C67D-444B-8D7F-537AFF922AF0}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{B250D4C3-C67D-444B-8D7F-537AFF922AF0}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A1899B0-32EC-480F-86E1-49419E84BCE2}
+	EndGlobalSection
+EndGlobal
